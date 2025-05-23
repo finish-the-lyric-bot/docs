@@ -1,0 +1,2 @@
+*.md linguist-documentation=false linguist-detectable=true
+*.svx linguist-documentation=false linguist-detectable=true
